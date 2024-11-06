@@ -11,3 +11,9 @@ bibliography: references.bib
 ## Section
 This is a simple placeholder for the manuscript's main document [@knuth84].
 Just typing some random text.
+
+```python
+import soundscapy as sspy
+data=sspy.isd.load()
+data.head()
+```

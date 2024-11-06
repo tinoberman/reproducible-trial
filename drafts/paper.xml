@@ -68,7 +68,10 @@ draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-
   <title>Section</title>
   <p>This is a simple placeholder for the manuscript’s main document
   (<xref alt="Knuth 1984" rid="ref-knuth84" ref-type="bibr">Knuth
-  1984</xref>).</p>
+  1984</xref>). Just typing some random text.</p>
+  <code language="python">import soundscapy as sspy
+data=sspy.isd.load()
+data.head()</code>
 </sec>
 </body>
 
